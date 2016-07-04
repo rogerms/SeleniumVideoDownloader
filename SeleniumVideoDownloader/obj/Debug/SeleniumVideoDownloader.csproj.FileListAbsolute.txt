@@ -1,0 +1,12 @@
+c:\users\roger\documents\visual studio 2015\Projects\SeleniumVideoDownloader\SeleniumVideoDownloader\bin\Debug\SeleniumVideoDownloader.exe.config
+c:\users\roger\documents\visual studio 2015\Projects\SeleniumVideoDownloader\SeleniumVideoDownloader\bin\Debug\SeleniumVideoDownloader.exe
+c:\users\roger\documents\visual studio 2015\Projects\SeleniumVideoDownloader\SeleniumVideoDownloader\bin\Debug\SeleniumVideoDownloader.pdb
+c:\users\roger\documents\visual studio 2015\Projects\SeleniumVideoDownloader\SeleniumVideoDownloader\obj\Debug\SeleniumVideoDownloader.csprojResolveAssemblyReference.cache
+c:\users\roger\documents\visual studio 2015\Projects\SeleniumVideoDownloader\SeleniumVideoDownloader\obj\Debug\SeleniumVideoDownloader.exe
+c:\users\roger\documents\visual studio 2015\Projects\SeleniumVideoDownloader\SeleniumVideoDownloader\obj\Debug\SeleniumVideoDownloader.pdb
+c:\users\roger\documents\visual studio 2015\Projects\SeleniumVideoDownloader\SeleniumVideoDownloader\bin\Debug\WebDriver.dll
+c:\users\roger\documents\visual studio 2015\Projects\SeleniumVideoDownloader\SeleniumVideoDownloader\bin\Debug\WebDriver.Support.dll
+c:\users\roger\documents\visual studio 2015\Projects\SeleniumVideoDownloader\SeleniumVideoDownloader\bin\Debug\WebDriver.xml
+c:\users\roger\documents\visual studio 2015\Projects\SeleniumVideoDownloader\SeleniumVideoDownloader\bin\Debug\WebDriver.Support.xml
+c:\users\roger\documents\visual studio 2015\Projects\SeleniumVideoDownloader\SeleniumVideoDownloader\bin\Debug\IEDriverServer-license.txt
+c:\users\roger\documents\visual studio 2015\Projects\SeleniumVideoDownloader\SeleniumVideoDownloader\bin\Debug\IEDriverServer.exe
